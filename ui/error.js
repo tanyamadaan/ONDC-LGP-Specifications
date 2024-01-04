@@ -28,7 +28,7 @@ function addErrorSets(option) {
     cell2.textContent = key["Reason"];
     cell3.textContent = key["Who can use code?"];
     cell4.textContent = key["Usage"];
-    cell4.textContent = key["Action"];
+    cell5.textContent = key["Action"];
 
     newRow.appendChild(cell1);
     newRow.appendChild(cell2);
