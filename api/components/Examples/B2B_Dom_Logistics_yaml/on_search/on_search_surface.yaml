@@ -1,4 +1,4 @@
-summary: LSP sends catalog
+summary: LSP sends catalog (Surface Delivery)
 description: Logistics service provider sends the catalog based on search + Sends the KYC Link.
 value:
   context:
@@ -59,7 +59,7 @@ value:
           categories:
             - id: C1
               descriptor:
-                code: EXPRESS_DELIVERY
+                code: Standard_Delivery
             - id: R1
               parent_category_id: C1
               descriptor:
